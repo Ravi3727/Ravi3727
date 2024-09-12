@@ -1,10 +1,12 @@
 # 💫 About Me:
-👋 Hi, I'm Ravikant, a passionate full-stack developer and AI/ML enthusiast currently pursuing a B.Tech in Mathematics and Computing at Delhi Technological University. With solid experience in both frontend and backend technologies, I enjoy building scalable web applications and solving complex coding problems.
+👋 Hi, I'm *Ravikant*, a passionate full-stack developer and AI/ML enthusiast currently pursuing a B.Tech in Mathematics and Computing at Delhi Technological University. With solid experience in both frontend and backend technologies, I enjoy building scalable web applications and solving complex coding problems.
 
 I’ve worked on a variety of projects, including:
 
-VideVerse: A YouTube-inspired video-sharing platform where users can upload, stream videos, tweet, comment, and like content. Built with React, Node.js, MongoDB, and FFmpeg.
-The Online Judge (OJ): A distraction-free coding platform that enables users to practice data structures and algorithms (DSA), create and solve problems, and participate in coding contests. Developed using Next.js, Node.js, MongoDB, and Docker, this project focuses on enhancing user experience and scalability.
+## VideVerse:
+A YouTube-inspired video-sharing platform where users can upload, stream videos, tweet, comment, and like content. Built with React, Node.js, MongoDB, and FFmpeg.  
+## The Online Judge (OJ):
+A distraction-free coding platform that enables users to practice data structures and algorithms (DSA), create and solve problems, and participate in coding contests. Developed using Next.js, Node.js, MongoDB, and Docker, this project focuses on enhancing user experience and scalability.
 My primary stack includes React, Node.js, Express, MongoDB, and Docker, but I’m also diving deep into machine learning and AI to solve real-world problems.
 
 I’m always excited to collaborate on innovative projects that push the boundaries of technology and improve people's lives.
