@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm *Ravikant*, a passionate full-stack developer and AI/ML enthusiast currently pursuing a B.Tech in Mathematics and Computing at Delhi Technological University. With solid experience in both frontend and backend technologies, I enjoy building scalable web applications and solving complex coding problems.
+👋 Hi, I'm **Ravi**, a passionate full-stack developer and AI/ML enthusiast currently pursuing a B.Tech in Mathematics and Computing at Delhi Technological University. With solid experience in both frontend and backend technologies, I enjoy building scalable web applications and solving complex coding problems.
 
 I’ve worked on a variety of projects, including:
  
